@@ -108,6 +108,10 @@ body{
     margin: 2%;
 }
 
+a{
+    color: rgb(89, 146, 4);
+
+}
 @media screen and (max-width: 620px) {
     .det{
         display: flex;
